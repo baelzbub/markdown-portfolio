@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+## Other Repositories
+
+[The Welcome Slideshow](https://github.com/baelzbub/github-slideshow)
