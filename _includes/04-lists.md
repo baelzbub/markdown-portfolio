@@ -1,0 +1,4 @@
+### Interests
+- Learning
+- Improving
+- Assisting
