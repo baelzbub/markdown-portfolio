@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Success Stories
+ - Woke up this morning
+ - Remembered to feed the cat
+ - Aligned a magnetic field by __Sense of Touch__ alone
